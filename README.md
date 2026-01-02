@@ -9,7 +9,7 @@
 
 
 
-## Sprint Retrospective**
+## Sprint Retrospective
 Что прошло хорошо: Docker Compose радикально упростил локальную разработку — docker compose up запускает стек за 30 сек, тесты в CI (GitHub Actions) проходят автоматически на каждом PR (4 пуша/день), фронт-бэк интеграция seamless благодаря Swagger-докам. Команда синхронизирована через daily standups в Issues комментах.
 ​
 
